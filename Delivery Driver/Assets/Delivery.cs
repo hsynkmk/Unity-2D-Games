@@ -31,6 +31,7 @@ public class Delivery : MonoBehaviour
         else if (collision.gameObject.tag == "Customer" && hasPackage)
         {
             hasPackage = false;
+            spriteRenderer.color = collision.gameObject.GetComponent<SpriteRenderer>().color;
         }
     }
 }
