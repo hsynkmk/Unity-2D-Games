@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Enter your question here
+  answers:
+  - 
+  - 
+  - 
+  - 
+  correctAnswer: 0
