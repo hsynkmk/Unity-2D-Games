@@ -11,3 +11,9 @@
 <h1 align="center">
     <img alt="CS" title="Quiz Master" src="https://github.com/hsynkmk/Unity-2D-Games/blob/main/Quiz%20Master/Quiz%20Master.png"> </br>
 </h1>
+
+## 3. Snow Boarder
+
+<h1 align="center">
+    <img alt="CS" title="Snow Boarder" src="https://github.com/hsynkmk/Unity-2D-Games/blob/main/Snow%Boarder/Snow%Boarder.png"> </br>
+</h1>
