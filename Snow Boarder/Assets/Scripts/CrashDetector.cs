@@ -12,6 +12,7 @@ public class CrashDetector : MonoBehaviour
         if(collision.tag == "Ground" || collision.tag == "Rock")
         {
             crashEffect.Play();
+            GetComponent<AudioSource>().Play();
             Invoke("ReloadScene", 0.2f);
         }
     }
