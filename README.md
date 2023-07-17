@@ -15,5 +15,5 @@
 ## 3. Snow Boarder
 
 <h1 align="center">
-    <img alt="CS" title="Snow Boarder" src="https://github.com/hsynkmk/Unity-2D-Games/blob/main/Snow%Boarder/Snow%Boarder.png"> </br>
+    <img alt="CS" title="Snow Boarder" src="https://github.com/hsynkmk/Unity-2D-Games/blob/main/Snow%20Boarder/Snow%20Boarder.png"> </br>
 </h1>
