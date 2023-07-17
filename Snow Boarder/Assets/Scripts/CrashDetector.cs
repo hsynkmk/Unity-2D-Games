@@ -5,10 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class CrashDetector : MonoBehaviour
 {
+    [SerializeField] ParticleSystem crashEffect;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "Ground")
+        if(collision.tag == "Ground" || collision.tag == "Rock")
         {
+            crashEffect.Play();
             Invoke("ReloadScene", 0.2f);
         }
     }
